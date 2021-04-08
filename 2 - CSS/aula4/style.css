@@ -1,0 +1,35 @@
+body {
+    background: #dfdfdf;
+}
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal{
+
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shorthand */
+    border-radius: 10% 10% 80% 80%;
+    /* 
+    border-width: 5px; 
+    border-style: solid;
+    border-color: black; 
+    */
+
+}
+
+h3{
+    color: crimson;
+    border-radius: 10px;
+    border: 1.5px groove #5f0115;
+}
+
+li{
+    color: rgb(7, 87, 87);
+    border: 2px groove black;
+    border-top: 2px dashed black;
+    border-bottom: 2px dotted darkblue;
+    border-radius: 15px;
+
+}
